@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "rootDir": "src",
+    "outDir": "target"
+  }
+}
